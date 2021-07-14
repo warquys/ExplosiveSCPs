@@ -43,7 +43,7 @@ namespace ExplosiveSCPS
         [Description("Should a message be displayed for the dead SCP that just explode?")]
         public bool DeathMessageEnabled = false;
 
-        [Description("The time the Death Message is being shown as a broadcast")]
+        [Description("The length the Death Message is being shown as a broadcast")]
         public ushort DeathMessageTime = 5;
 
         [Description("The death messages that is displayed for the dead SCP that just explode")]
