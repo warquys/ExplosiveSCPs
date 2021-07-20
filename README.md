@@ -18,13 +18,7 @@ Explode SCPs on their death.!
 Name  | Type | Default | Description
 ------------ | ------------ | ------------- | ------------ 
 `IsEnabled` | Boolean | true | Is this plugin enabled?
-`SCP049Explosion` | Boolean | false | Should SCP-049 explode on their death?
-`SCP0492Explosion` | Boolean | false | Should SCP-049-2 explode on their death?
-`SCP096Explosion` | Boolean | false | Should SCP-096 explode on their death?
-`SCP106Explosion` | Boolean | false | Should SCP-106 explode on their death?
-`SCP173Explosion` | Boolean | true | Should SCP-173 explode on their death?
-`SCP93953Explosion` | Boolean | false | Should SCP-939-53 explode on their death?
-`SCP93989Explosion` | Boolean | false | Should SCP-939-89 explode on their death?
+`ExplosiveRoles` | List<Int> | 0 | Which roles should explode on their death?
 `FuseTime` | float | 0.5f | How long after the death should the explosion happen?
 `GrenadeFactor` | int | 3 | How many grenades should explode on the death?
 `DeathMessageEnabled` | bool | false | Should a message be displayed for the dead SCP that just explode?
@@ -38,19 +32,8 @@ Name  | Type | Default | Description
 # Should ExplosiveSCPS be enabled?
 isEnabled: true
 # Should SCP-049 explode on their death?
-sCP049Explosion: false
-# Should SCP-049-2 instances explode on their death?
-sCP0492Explosion: false
-# Should SCP-096 explode on their death?
-sCP096Explosion: false
-# Should SCP-106 explode on their death?
-sCP106Explosion: false
-# Should SCP-173 explode on their death?
-sCP173Explosion: true
-# Should SCP-939-53 explode on their death?
-sCP93953Explosion: false
-# Should SCP-939-89 explode on their death?
-sCP93989Explosion: false
+explosiveRoles:
+- 0
 # How long after the death should the explosion happen?
 fuseTime: 0.5
 # How many grenades should explode on the death?
