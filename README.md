@@ -4,7 +4,7 @@ Explode SCPs on their death.!
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 ## Features
-* Decide which SCPS explode on their death
+* Decide which Roles explode on their death
 * Decide how strong the explosion is
 * Decide when the explosion happens
 
