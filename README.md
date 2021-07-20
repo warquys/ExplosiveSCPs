@@ -1,6 +1,8 @@
 # ExplosiveSCPs
 Explode SCPs on their death.!
 
+Thanks to [AlmightyLks](https://github.com/AlmightyLks) for this idea!
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 ## Features
