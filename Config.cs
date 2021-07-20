@@ -13,26 +13,11 @@ namespace ExplosiveSCPS
         [Description("Should ExplosiveSCPS be enabled?")]
         public bool IsEnabled = true;
 
-        [Description("Should SCP-049 explode on their death?")]
-        public bool SCP049Explosion = false;
-
-        [Description("Should SCP-049-2 instances explode on their death?")]
-        public bool SCP0492Explosion = false;
-
-        [Description("Should SCP-096 explode on their death?")]
-        public bool SCP096Explosion = false;
-
-        [Description("Should SCP-106 explode on their death?")]
-        public bool SCP106Explosion = false;
-
-        [Description("Should SCP-173 explode on their death?")]
-        public bool SCP173Explosion = true;
-
-        [Description("Should SCP-939-53 explode on their death?")]
-        public bool SCP93953Explosion = false;
-
-        [Description("Should SCP-939-89 explode on their death?")]
-        public bool SCP93989Explosion = false;
+        [Description("Which Roles should allow a explosion on death?")]
+        public List<int> ExplosiveRoles = new List<int>()
+        {
+            0
+        };
 
         [Description("How long after the death should the explosion happen?")]
         public float FuseTime = 0.5f;
