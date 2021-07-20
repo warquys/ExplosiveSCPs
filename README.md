@@ -25,7 +25,7 @@ Name  | Type | Default | Description
 `DeathMessageTime` | ushort | 5 | The length the Death Message is being shown as a broadcast
 `DeathMessage` | string | [ExplosiveSCPS] Your death caused a big explosion! | The death messages that is displayed for the dead SCP that just explode
 
-## Config.yml
+## Config.syml
 ```yml
 [ExplosiveSCPS]
 {
