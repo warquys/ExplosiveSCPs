@@ -4,12 +4,14 @@
 
 Thanks to [AlmightyLks](https://github.com/AlmightyLks) for this idea!
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
 
-## Features
-* Decide which Roles explode on their death
-* Decide how strong the explosion is
-* Decide when the explosion happens
+## What is this plugin?
+_**ExplosiveSCPs**_ allows for SCPs and other predetermined classes to explode on their death.
+You fully decide which classes explode and which do not. You can even use custom roles, which means
+that for example if you have Serpents Hand on your server, you can decide that they too will explode.
+
+_**Use at your own risk**_
 
 ## Installation
 1. [Install Synapse](https://github.com/SynapseSL/Synapse/wiki#hosting-guides)
