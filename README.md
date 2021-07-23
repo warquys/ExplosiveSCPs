@@ -1,5 +1,6 @@
-# ExplosiveSCPs
-Explode SCPs on their death.!
+<h4 align="center">
+  <img alt="ExplosiveSCPs" src="https://i.imgur.com/P5gr6FW.png">
+</h4>
 
 Thanks to [AlmightyLks](https://github.com/AlmightyLks) for this idea!
 
