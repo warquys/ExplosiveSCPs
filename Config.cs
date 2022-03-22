@@ -1,10 +1,6 @@
 ﻿using Synapse.Config;
-using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ExplosiveSCPS
 {
@@ -30,9 +26,6 @@ namespace ExplosiveSCPS
 
         [Description("The length the Death Message is being shown as a broadcast")]
         public ushort DeathMessageTime = 5;
-
-        [Description("The death messages that is displayed for the dead SCP that just explode")]
-        public string DeathMessage = "[ExplosiveSCPS] <color=red>Your death caused a big explosion!</color>";
 
     }
 }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32203.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplosiveSCPS", "ExplosiveSCPS.csproj", "{0C0146F8-D57C-453D-8E55-245BA03844AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0146F8-D57C-453D-8E55-245BA03844AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0146F8-D57C-453D-8E55-245BA03844AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0146F8-D57C-453D-8E55-245BA03844AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0146F8-D57C-453D-8E55-245BA03844AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE6ABF26-06D2-4F59-82CE-8A980955C76C}
+	EndGlobalSection
+EndGlobal

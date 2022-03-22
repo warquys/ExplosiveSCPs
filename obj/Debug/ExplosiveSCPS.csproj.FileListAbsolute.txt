@@ -1,0 +1,16 @@
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\ExplosiveSCPS.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\ExplosiveSCPS.pdb
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\Assembly-CSharp-firstpass.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\Assembly-CSharp.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\Mirror.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\Synapse.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\UnityEngine.CoreModule.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\UnityEngine.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\UnityEngine.PhysicsModule.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\System.Memory.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\bin\Debug\System.Buffers.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\obj\Debug\ExplosiveSCPS.csproj.AssemblyReference.cache
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\obj\Debug\ExplosiveSCPS.csproj.CoreCompileInputs.cache
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\obj\Debug\ExplosiveSCPS.csproj.CopyComplete
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\obj\Debug\ExplosiveSCPS.dll
+H:\Dev\SCP SL\Synapse\ExplosiveSCPs\obj\Debug\ExplosiveSCPS.pdb
