@@ -1,3 +1,6 @@
+
+[Original Plugin](https://github.com/TheVoidNebula/ExplosiveSCPs)
+
 <h4 align="center">
   <img alt="ExplosiveSCPs" src="https://i.imgur.com/P5gr6FW.png">
 </h4>
